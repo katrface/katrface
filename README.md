@@ -6,9 +6,10 @@ Frontend Developer
 
 I'm Frontend Developer with a passion for information modeling. I have experience in correcting legacy solutions.
 
-* ✉️  You can contact me at [maksim.zhdanov.dev@gmail.com](mailto:maksim.zhdanov.dev@gmail.com)
-* 🚀  I'm currently working on [FIX group of companies](https://www.fix.ru/en/about/)
-* 🧠  I'm learning how to manage the complexity of systems
+- 💻 Core Stack: **JS/Vue, Python/FastAPI**.
+- ✉️  You can contact me at [maksim.zhdanov.dev@gmail.com](mailto:maksim.zhdanov.dev@gmail.com)
+- 🚀  I'm currently working on [FIX group of companies](https://www.fix.ru/en/about/)
+- 🧠  I'm learning how to manage the complexity of systems
 
 ### Skills
 
